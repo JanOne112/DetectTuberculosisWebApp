@@ -1,0 +1,5 @@
+dataset from :
+
+https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities
+
+https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
